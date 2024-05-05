@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UE03_Eventmanagement_Backend.props" />
+</Project>

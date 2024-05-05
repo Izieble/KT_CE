@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KT_CE_Api", "KT_CE_Api.csproj", "{51C4E669-DA77-42E5-9773-D7D57E6B740F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C4E669-DA77-42E5-9773-D7D57E6B740F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C4E669-DA77-42E5-9773-D7D57E6B740F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C4E669-DA77-42E5-9773-D7D57E6B740F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C4E669-DA77-42E5-9773-D7D57E6B740F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B561E71-CAF0-4333-B6F8-613828D5A4AF}
+	EndGlobalSection
+EndGlobal

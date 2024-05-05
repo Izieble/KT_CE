@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UE03_Eventmanagement_Backend.props" />
+</Project>
