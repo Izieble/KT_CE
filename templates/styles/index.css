@@ -1,0 +1,33 @@
+body {
+    background-color: cadetblue;
+}
+
+h1{
+    color: black;
+}
+
+a{
+    margin: 20px 20px 20px 0px;
+    display: flex;
+}
+
+.container{
+    background-color: darksalmon;
+    width: 1380px;
+    height: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a shadow effect */
+}
+.start-page{
+    margin: -20px 0px 0px 1200px;
+}
+.heading1{
+    margin: 0px 0px 0px 0px;
+}
+
+button{
+    border: none;
+    background-color: cadetblue;
+    font-size: 10px;
+    margin: 0px 0px 20px 0px;
+}

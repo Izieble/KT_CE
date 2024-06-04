@@ -4,26 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        body {
-            background-color: black; 
-            color: white; */
-        }
-    </style>
+    <link rel="stylesheet" href="styles/index.css">
 </head>
-<a href="index.html"><h1>JKU - Start page</h1></a>
-    <h1>Roomplans for SP3 building</h1>
+<button onclick="goBack()"> <-Back </button>
 
-    <a href="sp3SR.html"><h1>SP3 Seminarräume</h1></a>
-    <a href="sp3HS.html"><h1>SP3 Hörsäle</h1></a>
-
-        <button onclick="goBack()">Go Back</button>
-
-        <script>
-            function goBack() {
-                window.history.back();
-            }
-        </script>
+<script>
+    function goBack() {
+        window.history.back();
+    }
+</script>
+<div class="container">
+    <h1 class="heading1">Room plans for SP3 building</h1>
+    <a class="start-page" href="index.html">JKU - Start page</a>
+</div>
+    <a href="sp3SR.html">SP3 Seminarräume</a>
+    <a href="sp3HS.html">SP3 Hörsäle</a>
 <body>
 
     <div id="about-section">

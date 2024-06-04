@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: cadetblue;
+    color: black;
+}
+.head-container{
+    background-color: darksalmon;
+    width: 1380px;
+    height: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a shadow effect */
+}
+a{
+    margin: 20px 20px 20px 0px;
+    display: flex;
+}
+
+.start-page{
+    margin: -20px 0px 0px 1200px;
+}
+.heading1{
+    color: black;
+    margin: 0px 0px 0px 0px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0px 10px 0px;
+    background-color: lightgoldenrodyellow;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: grey;
+}
+.back-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
